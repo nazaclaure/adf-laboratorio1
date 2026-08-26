@@ -1,0 +1,15 @@
+{
+	"name": "df-ucb-sisger-9416571",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "mexicocentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "309a480c-5263-464c-bf3d-4b52c5d5de44",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
